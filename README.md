@@ -9,7 +9,7 @@
 
 ***
 
-***About us***
+***About us***  
 We are the Tech Educator Coders!
 
 ***Growth Mindset***
