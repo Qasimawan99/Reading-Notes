@@ -9,7 +9,7 @@
 ***
 ***Brief Introduction***  
 My name is Qasim Awan and I am an aspiring coder working under the guidance of Tech Educators. This Mark-Down will allow me to organise, arrange and view my notes in a coherent manner.
-***About Me***   
+***About Me***  
 Aside from coding, i have interests in other things such as:
 - Football & most other sports
 - Video Games
