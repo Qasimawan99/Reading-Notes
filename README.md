@@ -1,10 +1,10 @@
 # Reading-Notes
 ### TechEd Notes
 
-#### __**What to expect**__
+####**What to expect**
 - About us
-- growth mindset
-- New pages
+ - growth mindset
+  - New pages
 
 ***
 
