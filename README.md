@@ -2,10 +2,15 @@
 ## TechEd Notes
 **document contents**
 
-1. xyz
-2. yzx
-3. zxy
+#### brief intro
+- About us
+- growth mindset
+- New pages
 
-- brief intro
-+ growth mindset
-+ New pages
+***
+
+***About us***
+We are the Tech Educator Coders!
+
+***Growth Mindset***
+> With Great power come great responsibility - uncle Ben
