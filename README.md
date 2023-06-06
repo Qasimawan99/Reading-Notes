@@ -14,3 +14,6 @@ We are the Tech Educator Coders!
 
 ***Growth Mindset***
 > With Great power come great responsibility - uncle Ben
+
+
+You can view my other repositories [Here] (
